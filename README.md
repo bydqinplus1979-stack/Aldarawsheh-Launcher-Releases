@@ -1,0 +1,1 @@
+S D ULTIMATE - Official production APK releases for Aldarawsheh Launcher. Install only signed APKs attached to published GitHub Releases. No source code, signing keys, or credentials are published here.
